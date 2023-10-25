@@ -1,1 +1,0 @@
-# Flask-django-project
