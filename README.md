@@ -1,2 +1,2 @@
-# Flask-django-projec
-i have created a branch named steptech and assigned in that please kindly check that
+# Flask-django-project
+i have created a branch named steptech and assigned the requirements refer the details
